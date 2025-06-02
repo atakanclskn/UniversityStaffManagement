@@ -179,7 +179,6 @@ namespace UniversityStaffManagement
             {
                 Console.WriteLine($"{personeller[secim - 1]} silindi.");
                 personeller.RemoveAt(secim - 1);
-                
             }
             else
             {

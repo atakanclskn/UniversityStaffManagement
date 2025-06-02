@@ -97,7 +97,6 @@ namespace UniversityStaffManagement
                     Console.WriteLine("{0,-25} {1,-25} {2,15:N0}", unvan, adSoyad, maas);
                 }
             }
-
             Console.WriteLine("Önceki menüye dönmek için ENTER...");
             Console.ReadLine();
         }
